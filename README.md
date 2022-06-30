@@ -9,3 +9,18 @@ Solution for https://www.freecodecamp.org/learn/data-analysis-with-python/#data-
 
 ![imagen](https://user-images.githubusercontent.com/81925037/176553901-e82319e6-dbd9-47c0-b526-767978f249fb.png)
 
+3: https://replit.com/@Doregon499/boilerplate-medical-data-visualizer?v=1
+
+![imagen](https://user-images.githubusercontent.com/81925037/176716762-d487ee33-fab1-4df1-941f-6f0e1decd010.png)
+
+![imagen](https://user-images.githubusercontent.com/81925037/176716813-5cbf0c97-7154-4e02-92b1-743fadee1369.png)
+
+4: https://replit.com/@Doregon499/boilerplate-page-view-time-series-visualizer?v=1
+
+![imagen](https://user-images.githubusercontent.com/81925037/176734182-06afec18-f72a-4d9e-903a-203a6317905c.png)
+
+![imagen](https://user-images.githubusercontent.com/81925037/176734217-7626034f-ac52-40a0-b1c5-256d1635aeeb.png)
+
+![imagen](https://user-images.githubusercontent.com/81925037/176734248-b6b09263-d699-45ce-bce1-1ed5f3381da0.png)
+
+5:
