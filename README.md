@@ -29,3 +29,7 @@ Solution for https://www.freecodecamp.org/learn/data-analysis-with-python/#data-
 
 ![imagen](https://user-images.githubusercontent.com/81925037/176736944-6b2d2180-d4cd-4d9c-aae6-2e8c52a49751.png)
 
+Certification:
+https://freecodecamp.org/certification/fcc740d88d7-7ab4-4653-904d-8644e9037612/data-analysis-with-python-v7
+
+![imagen](https://user-images.githubusercontent.com/81925037/176737511-86f301ce-9012-4271-9f7b-032413615a58.png)
